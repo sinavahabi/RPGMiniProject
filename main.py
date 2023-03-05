@@ -1,5 +1,5 @@
 """
-    Program: Role Playing Game Battel
+    Program: Role Playing Game Battle
     Author: sina vahabi
     Copyright: 2023/02
 """
