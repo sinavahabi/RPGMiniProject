@@ -1,8 +1,8 @@
 Role Playing Game
 
-Features: OOP, Error handling, JSON
-
 Languages: Python
+
+Topics: OOP, Error handling, JSON, User interaction
 
 This program is a primary text-base Role Playing Battle Game. Program in written with classes, so it's fully Object-Oriented-Programming.
 This battle is between 3 players and 3 enemies. players have access to magics and items as well while enemies don't.
